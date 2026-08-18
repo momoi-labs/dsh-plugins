@@ -1,0 +1,11 @@
+{
+  "name": "@momoi/dsh-plugin-editor-diff",
+  "version": "1.0.0",
+  "description": "DSH plugin that shows visual diffs of file edits (edit/write tools) in the GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": ["dsh", "deepseek", "cordis", "diff", "editor"],
+  "license": "MIT"
+}
