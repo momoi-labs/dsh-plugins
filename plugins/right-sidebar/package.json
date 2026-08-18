@@ -1,0 +1,11 @@
+{
+  "name": "@momoi/dsh-plugin-right-sidebar",
+  "version": "0.5.1",
+  "description": "DSH plugin exposing a generic open/close/toggle/isOpen API that takes over the shipped Details column to render a title + body; consumers (e.g., editor-diff) plug UI by calling ctx.get('sidebar').open/toggle(...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": ["dsh", "deepseek", "cordis", "sidebar", "api", "details"],
+  "license": "MIT"
+}
